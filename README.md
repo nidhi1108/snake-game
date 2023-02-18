@@ -1,2 +1,2 @@
 # snake-game
-Created a snake game using java 
+Created a snake game using java.
